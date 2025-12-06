@@ -1,0 +1,6 @@
+node_modules/
+uploads/
+db/database.sqlite
+reg-parser.db
+
+.env
