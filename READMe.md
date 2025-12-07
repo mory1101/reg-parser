@@ -98,6 +98,15 @@ OPENAI_API_KEY=your_key
 ✔ Semantic mapping working
 ✔ Ready for UI build / dashboard (Phase 2)
 
+## 📸 Screenshots
+
+See the [`/screenshots`](./screenshots) folder for:
+
+- Upload, parsing, tagging, and mapping API responses
+- Example semantic mapping results with cosine similarity
+- Database view of requirement-to-control mappings
+
+
 
 📣 Author
 
